@@ -1,8 +1,9 @@
 # How to use the project
 
-- Clone
-- Install dependencies (npm i)
-- Get your API key and add to weatherService.js
-- Enjoy!!
+-Clone the depository
+-Open with Visual Code (or other text editor)
+-Open the terminal 
+-Put the following command line : 
+"npm i", to install dependencies
+"npm run deploy" to start the application
 
-> Leave a star :)
