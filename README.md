@@ -1,5 +1,5 @@
 # How to use the project
-
+UPDTATE
 -Clone the depository
 -Open with Visual Code (or other text editor)
 -Open the terminal 
